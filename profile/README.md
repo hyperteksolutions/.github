@@ -2,6 +2,4 @@
 
 # Hypertek Solutions - Live Up To The Hype
 
-## Get in touch!
-
-✉️ [Contact Us](mailto:contact@hypertek.dev)
+Get in touch ✉️ [Contact Us](mailto:contact@hypertek.dev)
